@@ -25,9 +25,13 @@ Professor em Informática no Instituto Federal do Piauí, campos Picos. Doutoran
 
 ## 📊 GitHub Stats
 
-![Rafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaluz&show_icons=true&theme=default)
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaluz&layout=compact&theme=default)
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rafaluz&show_icons=true&theme=default" />
+
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaluz&layout=compact&theme=default" />
+
+</div>
 
 ---
 
