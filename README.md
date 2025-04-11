@@ -1,58 +1,49 @@
-# 👋 Olá! Eu sou o Rafael Luz
+# Olá! Eu sou o Rafael Luz Araújo 👋 
 
-Professor em Informática no Instituto Federal do Piauí, campos Picos. Doutorando em ciência da Computação pela associação UFMA/UFPI. Sou desenvolvedor com foco em **Python para análise de dados e machine learning**, especialmente em reconhecimento de padrões em imagens para diagnostico automático de doenças. Também atuo com desenvolvimento web utilizando tecnologias como **Django**, **Django REST Framework**, **PostgreSQL**, **Docker** e ferramentas como **Streamlit** e **Metabase**.
-
----
+- 👨‍🏫 **Professor** de Informática no Instituto Federal do Piauí – Campus Picos  
+- 🎓 **Doutorando** em Ciência da Computação pela associação UFMA/UFPI  
+- 💻 **Desenvolvedor** Full Stack  
+- 📊 **Cientista de Dados** com ênfase em reconhecimento de padrões, processamento de imagens médicas e aprendizado profundo.  
+- 📧 rafaluzaraujo@ifpi.edu.br
 
 ## 🛠️ Tecnologias e Ferramentas
+<p align="left">
+  <!-- Ciência de Dados -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" title="Jupyter"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" title="NumPy"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" title="Pandas"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" title="TensorFlow"/>
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="40" title="Streamlit"/>
+  <img src="https://www.vectorlogo.zone/logos/metabase/metabase-icon.svg" width="40" title="Metabase"/>
+  &nbsp;•&nbsp;
+  <!-- Desenvolvimento Web -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" title="Django"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="40" title="WordPress"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" title="Figma"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
+  &nbsp;•&nbsp;
+  <!-- Dev Tools -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" title="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" title="GitHub"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" title="Linux"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" title="Docker"/>
+</p>
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/-Django%20REST-FF1709?style=flat&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Metabase](https://img.shields.io/badge/-Metabase-509EE3?style=flat&logo=metabase&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-
----
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; flex-direction: row; justify-content: space-between;">
+<div style="display: flex; flex-direction: row; align-items: stretch; gap: 10px;">
 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rafaluz&show_icons=true&theme=default" />
+  <img style="flex: 1; height: 195px;" src="https://github-readme-stats.vercel.app/api?username=rafaluz&show_icons=true&theme=dark" />
 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaluz&layout=compact&theme=default" />
+  <img style="flex: 1; height: 195px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaluz&layout=compact&theme=dark" />
 
 </div>
 
 ---
-
-## 🚀 Projetos Atuais
-
-### 🎓 Doutorado
-- 🔬 **LeishVision: Plataforma integrada de diagnóstico automático de Leishmaniose Visceral**  
-  Desenvolvimento de uma plataforma baseada em IA para detecção automática da leishmaniose em imagens microscópicas.
-
-- 🖥️ **PredPeso: Sistema Web para Monitoramento de Peso de Pequenos Ruminantes Utilizando Técnicas de Deep Learning**  
-  Sistema voltado à estimativa automática de peso de animais por imagem, com interface web interativa.
-
-### 💼 Bolsista (2024–2025)
-
-**Desenvolvimento De Ferramentas Para Visualização De Dados De Segurança Utilizando Inteligência Artificial E Ciência De Dados**  
-Desenvolvimento de soluções de Ciência e Visualização de Dados aplicadas à Segurança Pública, com foco na integração e análise de dados oriundos de órgãos vinculados à Secretaria de Segurança Pública do Piauí. O projeto visa identificar tendências, apoiar decisões e formular políticas públicas. Já foram desenvolvidos alguns painéis interativos.  
-**Tecnologias:** React, Node.js, Metabase, PostgreSQL, Docker  
-🔗 Acesse: [https://dados.ssp.pi.gov.br/](https://dados.ssp.pi.gov.br/)
-
----
-
-## 📫 Contato
-
-📧 rafaluzaraujo@ifpi.edu.br
